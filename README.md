@@ -30,7 +30,7 @@ Programmatic SQL transformations were compiled inside Google BigQuery to cleanse
 ---
 
 ## 3. Executive Visualisation Matrix
-An interactive cloud-based dashboard was deployed to dynamically isolate campaign matrices against cross-filtering region controls and mobile/desktop device layers.
+An interactive cloud-based dashboard was deployed to dynamically isolat campaign matrices against cross-filtering region controls and mobile/desktop device layers.
 
 ![Google Ads Dashboard Visual Framework](dashboard_screenshot.png)
 
